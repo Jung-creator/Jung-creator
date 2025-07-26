@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **iOS Development**
 
+- 🧠 Previously, I worked on a [Flutter projects](https://github.com/junchoia25/DailyLog).  
+
 - 👨‍💻 All of my projects are available at [https://interesting-frame-461594.framer.app/work](https://interesting-frame-461594.framer.app/work)
 
 - 📫 How to reach me **junchoia25@gmail.com**
