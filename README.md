@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jung-creator</h1>
 <h3 align="center">With a background in visual design and a steadily growing interest in development, I have evolved into a creator who can seamlessly connect both fields.</h3>
 
