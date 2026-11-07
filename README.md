@@ -6,10 +6,19 @@
 
 Bridging visual design and engineering to create expressive iOS experiences.
 
-<br>
+<br/>
 
-<a href="www.linkedin.com/in/jung-creator"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:junchoia25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jung-creator">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Jung-creator">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:junchoia25@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="30" />
+</a>
 
 </div>
 
