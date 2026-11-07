@@ -24,7 +24,8 @@ Bridging visual design and engineering to create expressive iOS experiences.
 
 ---
 
-### 👋 About Me
+### About Me
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="35" />
 
 - 🎨 I have a background in Visual Media Design.
 - 📱 I'm an iOS Developer focused on building native applications with Swift and SwiftUI.
